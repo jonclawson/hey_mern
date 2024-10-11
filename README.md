@@ -31,6 +31,7 @@ mern-docker-app/
 ```
 
 `$ cd mern-docker-app`
+
 `$ docker comose up`
 
 Serves at localhost:3000
