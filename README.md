@@ -1,2 +1,2 @@
-# hey_mern
+# heymern
 A MERN Generation Script
