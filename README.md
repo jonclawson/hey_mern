@@ -6,10 +6,11 @@ Creates a fullstack MERN app housed inside 3 containers, React Container, Expres
 Installation:
 
 Run the script.
-$ ./heymern.sh 
+`$ ./heymern.sh `
 
 Generates a file structure that looks like this.
 
+```
 mern-docker-app/
 ├── client/
 │   ├── public/
@@ -27,8 +28,9 @@ mern-docker-app/
 ├── docker-compose.yml
 ├── docker-compose.prod.yml
 └── .dockerignore
+```
 
-$ cd mern-docker-app
-$ docker comose up
+`$ cd mern-docker-app`
+`$ docker comose up`
 
 Serves at localhost:3000
