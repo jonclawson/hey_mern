@@ -1,3 +1,4 @@
+![MERN Stack](heymern.png)
 # heymern
 A MERN Generation Script
 
